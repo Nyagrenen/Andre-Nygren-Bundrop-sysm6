@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+.main-container {
+  display: flex;
+
+}
+.btnMenu {
+  display: flex;
+  font-size: 40px;
+  color: #000000;
+  text-decoration: none;
+  background: rgb(255, 188, 3);
+  border-radius: 20px;
+  height: 80px;
+  width: 250px;
+  max-width: 50vw;
+  max-height: 10vh;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  margin-bottom: 50px;
+  flex-direction: column;
+  font-family: "Poppins";
+
+}
+
+.logo {
+  margin: auto;
+  max-width: 30vw;
+  max-height: 20vh;
+  margin: 25px;
+}
+
+.foregroundStyle {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  flex-direction: column;
+
+}
+
+
+.burger-image {
+  height: 610px;
+}
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color: #f0f0f0; */
+}
+h1 {
+  font-size: 80px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  align-items: center;
+  font-family: "Poppins";
+  color: rgb(255, 200, 3);
+}

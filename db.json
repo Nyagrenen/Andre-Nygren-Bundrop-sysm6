@@ -1,0 +1,76 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Cheeseburger",
+      "image": "/Images/burger-1.png",
+      "price": 60
+    },
+    {
+      "id": 2,
+      "name": " Bacon Burger",
+      "image": "/Images/burger-2.png",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Double cheese",
+      "image": "/Images/burger-3.png",
+      "price": 70
+    },
+    {
+      "id": 4,
+      "name": "Mc Burger",
+      "image": "/Images/burger-4.png",
+      "price": 89
+    },
+    {
+      "id": 5,
+      "name": "Cheese delux",
+      "image": "/Images/burger-5.png",
+      "price": 99
+    },
+    {
+      "id": 6,
+      "name": "Fries ",
+      "image": "/Images/fries-1.png",
+      "price": 30
+    },
+    {
+      "id": 7,
+      "name": "Fries 2",
+      "image": "/Images/fries-2.png",
+      "price": 30
+    },
+    {
+      "id": 8,
+      "name": "Milkshake",
+      "image": "/Images/milkshake-1.png",
+      "price": 50
+    },
+    {
+      "id": 9,
+      "name": "Soda 1",
+      "image": "/Images/soda-1.png",
+      "price": 20
+    },
+    {
+      "id": 10,
+      "name": "Soda 2",
+      "image": "Images/soda-2.png",
+      "price": 20
+    },
+    {
+      "id": 11,
+      "name": "Soda 3",
+      "image": "/Images/soda-3.png",
+      "price": 20
+    },
+    {
+      "id": 12,
+      "name": "Soda 4",
+      "image": "/Images/soda-4.png",
+      "price": 20
+    }
+  ]
+}

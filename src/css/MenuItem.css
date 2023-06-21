@@ -1,0 +1,56 @@
+.menuContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+
+.menuItem {
+  cursor: pointer;
+  margin: 20px;
+  padding: 20px;
+  background: rgb(255, 200, 3);
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  font-family: "Poppins";
+  
+}
+
+.menuItem:hover {
+  transform: scale(1.05);
+}
+
+.menuImage {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.menuItemInfo {
+  text-align: center;
+}
+
+.menuItemName {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.menuItemPrice {
+  font-size: 16px;
+  color: #555555;
+}
+
+.menuItemNumber {
+  font-size: 16px;
+  color: #555555;
+  margin-top: 10px;
+  text-align: center;
+
+}

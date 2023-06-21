@@ -1,0 +1,54 @@
+
+.btnRemove {
+  background:#4caf50;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.orderText {
+  margin: 40px;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Poppins";
+  font-weight: bold;
+}
+
+.btnOrder {
+  display: flex;
+  font-size: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 40px;
+  height: 800px;
+  width: 200px;
+  max-width: 60vw;
+  max-height: 10vh;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 20px;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+
+
+.box {
+  background: #4caf50 !important;
+  color: #000000;
+  border-radius: 30px;
+  width: 80%;
+  margin: 40px;
+}
+
+.foregroundStyle {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
